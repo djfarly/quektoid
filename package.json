@@ -1,0 +1,11 @@
+{
+  "name": "quektoid",
+  "version": "1.0.0",
+  "description": "A very tiny, un-secure unique string ID generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Jan Henckel <farly.de@gmail.com>",
+  "license": "MIT"
+}
